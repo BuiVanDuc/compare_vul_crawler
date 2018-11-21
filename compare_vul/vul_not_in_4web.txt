@@ -1,0 +1,19 @@
+Slow HTTP Denial of Service Attack	https://subversion.renater.fr/			3
+Source code disclosure	https://subversion.renater.fr/efidir/trunk/efidir_soft/gui/PHP/gui.php	GET		3
+Error message on page	https://subversion.renater.fr/efidir/tags/1.6/include/common/jpeg/jerror.h	GET		3
+Error message on page	https://subversion.renater.fr/efidir/tags/1.5/include/common/jpeg/jerror.h	GET		3
+Backup files	https://subversion.renater.fr/efidir/trunk/efidir_soft/doc/workflows/sources/make_processing2.py	GET		3
+Source code disclosure	https://subversion.renater.fr/efidir/branches/efidir_switch_gdal/gui/PHP/gui.php	GET		3
+Vulnerable Javascript library	https://subversion.renater.fr/efidir/trunk/efidir_soft/doc/html/jquery.js	GET		3
+Source code disclosure	https://subversion.renater.fr/efidir/trunk/efidir_soft/gui/PHP/gui.php	GET		3
+Error message on page	https://subversion.renater.fr/efidir/tags/1.8/include/common/jpeg/jerror.h	GET		3
+Error message on page	https://subversion.renater.fr/efidir/tags/1.7/include/common/jpeg/jerror.h	GET		3
+Vulnerable Javascript library	https://subversion.renater.fr/efidir/branches/efidir_switch_gdal/doc/html/jquery.js	GET		3
+The POODLE attack (SSLv3 supported)	https://subversion.renater.fr/			3
+The FREAK attack (export cipher suites supported)	https://subversion.renater.fr/			3
+SSL weak ciphers	https://subversion.renater.fr/			3
+RC4 cipher suites detected	https://subversion.renater.fr/			3
+Apache httpd remote denial of service	https://subversion.renater.fr/			3
+Source code disclosure	https://subversion.renater.fr/	GET		3
+The DROWN attack (SSLv2 supported)	https://subversion.renater.fr/			4
+SSL 2.0 deprecated  protocol	https://subversion.renater.fr/			4

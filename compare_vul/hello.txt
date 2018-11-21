@@ -1,0 +1,1 @@
+http://code.kx.com/mediawiki/index.php,GET ,for,Cross site scripting,4

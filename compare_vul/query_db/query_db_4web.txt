@@ -1,0 +1,5 @@
+SELECT host_vulnerability.affects, SUBSTRING(host_vulnerability.request,1,4), host_vulnerability.param, host_vulnerability.name,vulnerability.severity
+FROM host_vulnerability
+INNER JOIN vulnerability
+ON host_vulnerability.vulnerability_id=vulnerability.id and vulnerability.severity >=3 and host_vulnerability.task_id=2243
+ORDER severity ASC

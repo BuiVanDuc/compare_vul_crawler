@@ -1,0 +1,10 @@
+"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copy.cursor","GET ","","Backup files",3
+"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copy_cursor.pr","GET ","","Backup files",3
+"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copyletter.cursor","GET ","","Backup files",3
+"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copyletter.pr","GET ","","Backup files",3
+"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copyletters.cursor","GET ","","Backup files",3
+"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copyletters.pr","GET ","","Backup files",3
+"https://subversion.renater.fr/efidir/branches/efidir_switch_gdal/gui/WebServices/lib/Service[1.0].jar","GET ","","Backup files",3
+"https://subversion.renater.fr/efidir/branches/efidir_switch_gdal/gui/WebServices/lib/XML[1.0].jar","GET ","","Backup files",3
+"https://subversion.renater.fr/icons/small/","GET ","","Directory listing",3
+"https://subversion.renater.fr/icons/","GET ","","Directory listing",3

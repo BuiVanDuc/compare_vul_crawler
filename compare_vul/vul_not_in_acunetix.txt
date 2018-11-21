@@ -1,0 +1,12 @@
+"Backup files"	"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copy.cursor"	"GET "	""	3
+"Backup files"	"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copy_cursor.pr"	"GET "	""	3
+"Backup files"	"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copyletter.cursor"	"GET "	""	3
+"Backup files"	"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copyletter.pr"	"GET "	""	3
+"Backup files"	"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copyletters.cursor"	"GET "	""	3
+"Backup files"	"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copyletters.pr"	"GET "	""	3
+"Backup files"	"https://subversion.renater.fr/efidir/branches/efidir_switch_gdal/gui/WebServices/lib/Service[1.0].jar"	"GET "	""	3
+"Backup files"	"https://subversion.renater.fr/efidir/branches/efidir_switch_gdal/gui/WebServices/lib/XML[1.0].jar"	"GET "	""	3
+"Directory listing"	"https://subversion.renater.fr/icons/small/"	"GET "	""	3
+"Directory listing"	"https://subversion.renater.fr/icons/"	"GET "	""	3
+"Backup files"	"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copy.cursor"	"GET "	""	3
+"Backup files"	"https://subversion.renater.fr/efidir/tags/1.8/include/xviewefidir/images/copy_cursor.pr"	"GET "	""	3

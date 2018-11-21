@@ -1,0 +1,2 @@
+https://www.fact-project.org/svn/tags/Mars-V2.4/mcamera/CameraIncl.h
+https://www.fact-project.org/svn/tags/Mars-V2.4/mcamera/MCameraCentralPix.h

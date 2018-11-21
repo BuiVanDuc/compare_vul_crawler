@@ -1,0 +1,9 @@
+SELECT id, ip_addr
+FROM public.hosts
+WHERE task_id=2243
+ORDER BY id ASC
+-------------------------
+SELECT path, method, params, security_level
+FROM public.website_crawl_data
+WHERE website_id=1934
+ORDER BY id ASC
